@@ -4,7 +4,7 @@ Read more about this tool at my blog post [here](http://andyinthecloud.com/2013/
 
 **Update: 27th September 2014:** Added feature to generate Deploy to Salesforce button, thanks to [Karanraj](https://twitter.com/karanrajs) for the image.
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=PoppaG&repo=General">
+<a href="https://githubsfdeploy.herokuapp.com?owner=PoppaG&repo=githubsfdeploy">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
